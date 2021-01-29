@@ -3,6 +3,7 @@
   "version": "0.1.0",
   "description": "Qth ZWave gateway",
   "main": "dist/qth_zwave.js",
+  "bin": "./dist/qth_zwave.js",
   "scripts": {
     "prepare": "npm run build",
     "build": "babel src -d dist"

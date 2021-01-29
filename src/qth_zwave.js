@@ -1,3 +1,5 @@
+#!/usr/bin/env node
+
 import { Driver } from "zwave-js";
 
 import Client from "qth";
