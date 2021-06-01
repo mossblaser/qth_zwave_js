@@ -1,6 +1,6 @@
 {
   "name": "qth_zwave_js",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Qth ZWave gateway",
   "main": "dist/qth_zwave.js",
   "bin": "./dist/qth_zwave.js",
