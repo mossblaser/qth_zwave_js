@@ -13,9 +13,7 @@
   "dependencies": {
     "argparse": "^2.0.1",
     "qth": "github:mossblaser/qth.js",
-    "zwave-js": "^6.0.1"
-  },
-  "devDependencies": {
+    "zwave-js": "^6.0.1",
     "@babel/cli": "^7.12.10",
     "@babel/core": "^7.12.10",
     "@babel/node": "^7.12.10",
